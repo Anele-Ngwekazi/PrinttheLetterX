@@ -1,0 +1,11 @@
+C:\Users\v-anngwe\source\repos\ProblemA003\ProblemA003\bin\Debug\netcoreapp2.1\ProblemA003.deps.json
+C:\Users\v-anngwe\source\repos\ProblemA003\ProblemA003\bin\Debug\netcoreapp2.1\ProblemA003.runtimeconfig.json
+C:\Users\v-anngwe\source\repos\ProblemA003\ProblemA003\bin\Debug\netcoreapp2.1\ProblemA003.runtimeconfig.dev.json
+C:\Users\v-anngwe\source\repos\ProblemA003\ProblemA003\bin\Debug\netcoreapp2.1\ProblemA003.dll
+C:\Users\v-anngwe\source\repos\ProblemA003\ProblemA003\bin\Debug\netcoreapp2.1\ProblemA003.pdb
+C:\Users\v-anngwe\source\repos\ProblemA003\ProblemA003\obj\Debug\netcoreapp2.1\ProblemA003.csprojAssemblyReference.cache
+C:\Users\v-anngwe\source\repos\ProblemA003\ProblemA003\obj\Debug\netcoreapp2.1\ProblemA003.csproj.CoreCompileInputs.cache
+C:\Users\v-anngwe\source\repos\ProblemA003\ProblemA003\obj\Debug\netcoreapp2.1\ProblemA003.AssemblyInfoInputs.cache
+C:\Users\v-anngwe\source\repos\ProblemA003\ProblemA003\obj\Debug\netcoreapp2.1\ProblemA003.AssemblyInfo.cs
+C:\Users\v-anngwe\source\repos\ProblemA003\ProblemA003\obj\Debug\netcoreapp2.1\ProblemA003.dll
+C:\Users\v-anngwe\source\repos\ProblemA003\ProblemA003\obj\Debug\netcoreapp2.1\ProblemA003.pdb
